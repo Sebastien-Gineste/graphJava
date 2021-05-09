@@ -1,0 +1,4 @@
+Manifest-Version: 1.1
+Created-By: Xavier-Sebastien
+Class-Path: libs/graph.jar
+Main-Class: test.TestGraphImpl
